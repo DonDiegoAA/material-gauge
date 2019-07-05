@@ -5,7 +5,7 @@
 // is in the CSS rules, but we do have a bit
 // of JavaScript to set or read the gauge value
 
-function Gauge(el) {
+export default function Gauge(el) {
 
     // ##### Private Properties and Attributes
 
